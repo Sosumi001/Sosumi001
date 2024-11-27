@@ -2,7 +2,7 @@
 
 🌱 I’m currently undergoing AI course for undergraduate on Yonsei University.
 
-💬 You can ask me anything via ggdggn12@yonsei.ac.kr or @_sosumi (Discord)
+💬 You can ask me anything about me via ggdggn12@yonsei.ac.kr or @_sosumi (Discord)
 <!--
 **Sosumi001/Sosumi001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
